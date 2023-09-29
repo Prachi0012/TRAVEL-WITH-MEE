@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.AddData.MountainAddDataActivity">
+
+    <EditText
+        android:id="@+id/edtmountain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Place Name"
+        android:maxLines="1"
+        android:layout_margin="@dimen/_5sdp"/>
+    <EditText
+        android:id="@+id/edtmcity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="city"
+        android:maxLines="1"
+        android:layout_margin="@dimen/_5sdp"/>
+    <EditText
+        android:id="@+id/edtmdescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="description"
+        android:maxLines="1"
+        android:layout_margin="@dimen/_5sdp"/>
+    <EditText
+        android:id="@+id/edtmprice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:hint="price"
+        android:layout_margin="@dimen/_5sdp"/>
+    <EditText
+        android:id="@+id/edtmstaypeople"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="people"
+        android:maxLines="1"
+        android:layout_margin="@dimen/_5sdp"/>
+
+    <Button
+        android:id="@+id/btnmaddimg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Add Image"/>
+
+    <Button
+        android:id="@+id/btnmsubmit"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/_10sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"/>
+</LinearLayout>

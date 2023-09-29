@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TRAVEL WITH MEE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="maps_api_key">AIzaSyAqjhJsvYeFx3nBG8nkZjxkqrF7STBZbOo</string>
+    <string name="title_activity_maps">Google Search Location</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486543990732",
+    "project_id": "travellingapp-457ec",
+    "storage_bucket": "travellingapp-457ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486543990732:android:3615a0b3784dad714cc769",
+        "android_client_info": {
+          "package_name": "com.example.travelwithmee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486543990732-hunej8809b228hrolsubt46364hli4g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelwithmee",
+            "certificate_hash": "8b60732a3fe02243e99cce562d3a3e41225381b5"
+          }
+        },
+        {
+          "client_id": "486543990732-sbki2jfm1klhfv8nms0k83aron2bicg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVNetibjMQSu9ahs6hteOmX5OK1BSXvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486543990732-sbki2jfm1klhfv8nms0k83aron2bicg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
